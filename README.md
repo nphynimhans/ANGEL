@@ -4,9 +4,9 @@
 **The contents of this repository are related to the following paper:**
 *[Nair AK, Sasidharan A, John JP, Mehrotra S and Kutty BM (2016) Assessing Neurocognition via Gamiﬁed Experimental Logic: A Novel Approach to Simultaneous Acquisition of Multiple ERPs. Front. Neurosci. 10:1. doi: 10.3389/fnins.2016.00001] (http://journal.frontiersin.org/article/10.3389/fnins.2016.00001/abstract)*
 
-Please cite the same in case you are using the ANGEL paradigm for your study. Please note that the source code is being provided without any support or warranty of any kind. 
+**Please cite the same in case you are using the ANGEL paradigm for your study. Please note that the source code is being provided without any support or warranty of any kind.** 
 
-*Contents:*
+**Contents:**
 * ANGELParadigm - Theis contains the ANGEL paradigm for presentation in English, Hindi and Kannada languages. This also contains rest and meditation paradigm for a related study. 
 * ANGELFunctions - This contains MATLAB functions and scripts for EEG and ERP analysis done for the paper.
 

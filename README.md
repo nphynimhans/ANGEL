@@ -24,3 +24,6 @@ The paradigm has been used in EGI 128 Channel and Neuroscan 64 Channel systems o
 ### Contributors 
 * Ajay Kumar Nair
 * Arun Sasidharan
+
+### Funding Support
+Department of Science and Technology, Cognitive Science Research Initiative (DST-CSRI), Government of India, New Delhi (No.SR/CSI/63/2011).
